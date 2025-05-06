@@ -7,3 +7,5 @@ For installation documentation, please refer to [the included documentation](doc
 
 m2ee-tools on github:
 https://github.com/mendix/m2ee-tools/
+
+This tool only supports Debian 10.
